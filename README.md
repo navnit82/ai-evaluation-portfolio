@@ -89,4 +89,4 @@
   * Accuracy & Logic: Model A (5/5) | Model B (5/5)
   * Clarity & Tone: Model A (5/5) | Model B (5/5)
 * **Evaluator Notes:** **Model B (Gemini) wins on strict formatting.** Both models returned valid JSON with accurate Indian street food pairings and zero conversational filler. Model B gets the edge because it returned raw JSON directly without wrapping it in Markdown code fences, making it immediately parseable.
-*
+
